@@ -1,6 +1,5 @@
 # Polygon-Game
+Simple maze game.
 
-Простая игра-лабиринт.
-
-Перемещение - ЛКМ.
-Использовать рычаг - ЛКМ.
+Move - Left Mouse Button (LMB).
+Use lever - Left Mouse Button (LMB).
